@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 if ($_POST['submit']) {
 
@@ -11,14 +11,11 @@ if ($_POST['submit']) {
 		echo "Form Harus Di isi!!";
 	}
 
-	mysqli_query($koneksi,"UPDATE tb_jabatan SET id_jabatan ='$id_jabatan', nama_jabatan='$nama_jabatan' WHERE id_jabatan='$id_jabatan'");
+	mysqli_query($koneksi, "UPDATE tb_jabatan SET id_jabatan ='$id_jabatan', nama_jabatan='$nama_jabatan' WHERE id_jabatan='$id_jabatan'");
 
 	echo "
 	<script>
 	alert('Data Berhasil DiUbah');
 	document.location.href = '../index.php';
 	</script>";
-
 }
-
-?>

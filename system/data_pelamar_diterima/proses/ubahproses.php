@@ -17,6 +17,3 @@ echo "
 alert('Data Berhasil DiUbah');
 document.location.href = '../index.php';
 </script>";
-
-
-?>
