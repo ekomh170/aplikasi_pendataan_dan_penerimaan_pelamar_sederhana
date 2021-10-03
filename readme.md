@@ -30,6 +30,7 @@
 - Hapus Data (Data Pelamar Yang Ditolak)<br>
 - Detail Data (Data Pelamar Yang Ditolak)<br>
 - Print Data (Data Pelamar Yang Ditolak)<br>
+  E.
 
 ## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
 
