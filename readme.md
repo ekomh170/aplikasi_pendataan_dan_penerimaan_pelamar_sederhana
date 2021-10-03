@@ -23,14 +23,15 @@
 - Ubah Data (Data Pelamar Yang Diterima)<br>
 - Hapus Data (Data Pelamar Yang Diterima)<br>
 - Detail Data (Data Pelamar Yang Diterima)<br>
-- Print Data (Data Pelamar Yang Diterima)<br>
+- Print Data (Data Pelamar Yang Diterima)<br><br>
   D. Data Pelamar Yang Ditolak<br>
 - Tambah Data (Data Pelamar Yang Ditolak)<br>
 - Ubah Data (Data Pelamar Yang Ditolak)<br>
 - Hapus Data (Data Pelamar Yang Ditolak)<br>
 - Detail Data (Data Pelamar Yang Ditolak)<br>
-- Print Data (Data Pelamar Yang Ditolak)<br>
-  E.
+- Print Data (Data Pelamar Yang Ditolak)<br><br>
+  E. Form Pengisian Data Karyawan<br>
+- Tambah Data (Form Pengisian Data Karyawan)<br>
 
 ## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
 
