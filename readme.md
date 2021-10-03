@@ -1,4 +1,4 @@
-## Aplikasi Sangat Sederhana Pendataan Akta Tanah Sederhana
+## Aplikasi Pendataan dan Penerima Pelamar Berbasis Web Sederhana
 
 ## Fitur Aplikasi
 
@@ -19,23 +19,29 @@
 - Detail Data (Jabatan)<br>
 - Print Data (Jabatan)<br><br>
   C. Data Pelamar Yang Diterima<br>
-- Tambah Data (Pemilik Tanah)<br>
-- Ubah Data (Pemilik Tanah)<br>
-- Detail Data (Pemilik Tanah)<br>
-- Print Data (Pemilik Tanah)<br>
-- Cari Data (Pemilik Tanah)<br>
+- Tambah Data (Data Pelamar Yang Diterima)<br>
+- Ubah Data (Data Pelamar Yang Diterima)<br>
+- Hapus Data (Data Pelamar Yang Diterima)<br>
+- Detail Data (Data Pelamar Yang Diterima)<br>
+- Print Data (Data Pelamar Yang Diterima)<br>
   D. Data Pelamar Yang Ditolak<br>
-- Tambah Data (Pemilik Tanah)<br>
-- Ubah Data (Pemilik Tanah)<br>
-- Detail Data (Pemilik Tanah)<br>
-- Print Data (Pemilik Tanah)<br>
-- Cari Data (Pemilik Tanah)<br>
+- Tambah Data (Data Pelamar Yang Ditolak)<br>
+- Ubah Data (Data Pelamar Yang Ditolak)<br>
+- Hapus Data (Data Pelamar Yang Ditolak)<br>
+- Detail Data (Data Pelamar Yang Ditolak)<br>
+- Print Data (Data Pelamar Yang Ditolak)<br>
+
+## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
+
+- HRD
+- Kepala HRD
+- Pelamar (Pelamar Tidak Perlu Login Hanya Perlu Mengisi Form Lamaran)
 
 ## Aplikasi Screenshot
 
 <img src="assets_readme/Halaman_Utama.PNG" alt="Contoh_Gambar">
-<img src="assets_readme/Halaman_View.PNG" alt="Contoh_Gambar">
-<img src="assets_readme/Halaman_View3.PNG" alt="Contoh_Gambar">
+<img src="assets_readme/Halaman_Utama_Setelah_Login.PNG" alt="Contoh_Gambar">
+<img src="assets_readme/Penerimaan_dan_Pendataan.PNG" alt="Contoh_Gambar">
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
